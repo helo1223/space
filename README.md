@@ -1,4 +1,2 @@
 # space
 Űrhajós játék
-
-Valami
